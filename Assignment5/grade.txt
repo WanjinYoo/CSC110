@@ -1,0 +1,12 @@
+50
+60
+30
+60
+30
+80
+30
+80
+100
+20
+ aSecretMessage
+ aSecretMessage

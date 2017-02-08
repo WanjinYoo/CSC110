@@ -1,0 +1,20 @@
+public class trace2{
+	public static void main (String[] args) {
+		int z=20;
+		stars(z);
+	}
+public static void printfun (int x, int numbStar) {
+	for ( int i=0,i<numbStar,i++) {
+		System.out.print("*")
+
+	}
+	int numnums = n-numbstar;
+	for (int i=0;i<numnums;i++) {
+		System.out.prinln("#");
+	}
+
+
+    public static void stars (int n) {
+		System.out.print("*")
+	}
+}
