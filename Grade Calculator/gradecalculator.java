@@ -565,7 +565,7 @@ public static int[] countGrades(String[] grades )throws FileNotFoundException{
 	x++;	   	   
 }
 while(x < row);
-/*count[9]= "A+"+count2[9];
+count[9]= "A+"+count2[9];
 count[8]= "A"+ count2[8];
 count[7]= "A-"+ count2[7];
 count[6] = "B+"+ count2[6];
@@ -574,27 +574,7 @@ count[4] = "B-"+ count2[4];
 count[3]= "C+"+ count2[3];
 count[2]= "C"+ count2[2];
 count[1] = "D"+ count2[1];
-count[0] = "F"+ count2[0];*/
-
-
-
-
-
-
-
- 
-
-
-
-
-	
-	//String[] num = new String[row];
-
- 
-
-
-
-
+count[0] = "F"+ count2[0];
 
 return count2;	
 }
